@@ -17,7 +17,8 @@
 
 [^3]: ميل الرأس للجانب بسبب اضطراب في التوازن، غالبًا مرتبط بمشاكل في الأذن الداخلية أو العصبية
 
-[^4]: ![صوره](../../../../Images/Pasted%20image%2020250903125135.png)
+[^4]: ![صوره](https://raw.githubusercontent.com/AhmAbdelmaksoud/ObsidianVault/main/Images/Pasted%20image%2020250903125135.png)
+
 
 
 
