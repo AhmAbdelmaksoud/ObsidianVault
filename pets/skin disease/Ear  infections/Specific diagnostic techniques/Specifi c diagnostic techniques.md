@@ -53,10 +53,14 @@ If there are time constraints, cytology can still be incorporated by:
 ##  Determining Underlying Cause
 - In addition to diagnosing and treating the infection, clinicians must identify the **underlying cause**, especially in animals with ==**recurrent otitis**==.  
 - Failure to address underlying cause → many cases become ==**chronic or recurrent**.== 
-![[Pasted image 20250903124524.png]]
+![صوره](Images/Pasted%20image%2020250903124524.png)
 
-[^1]: ![[Pasted image 20250903124925.png]]
 
-[^2]: ![[Pasted image 20250903125023.png]]
+[^1]: ![صوره](Images/Pasted%20image%2020250903124925.png)
 
-[^3]: ![[Pasted image 20250903125040.png]]
+
+[^2]: ![صوره](Images/Pasted%20image%2020250903125023.png)
+
+
+[^3]: ![صوره](Images/Pasted%20image%2020250903125040.png)
+
