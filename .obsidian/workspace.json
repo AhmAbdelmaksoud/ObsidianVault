@@ -53,12 +53,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pets/skin disease/Pododermatitis/dd/2.DD.md",
+                "file": "pets/skin disease/Pododermatitis/dd/cat DD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.DD"
+              "title": "cat DD"
+            }
+          },
+          {
+            "id": "36a468272ba4c38e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pets/skin disease/Pododermatitis/dd/cat DD.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cat DD"
+            }
+          },
+          {
+            "id": "573a323f4ce6a4b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pets/skin disease/Pododermatitis/Diagnoses/diagnosis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "diagnosis"
+            }
+          },
+          {
+            "id": "bdff5fbfd4336e44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pets/skin disease/Pododermatitis/TTT/TTT &  The l ow-cost option.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TTT &  The l ow-cost option"
             }
           },
           {
@@ -67,12 +109,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pets/skin disease/Pododermatitis/dd/2.DD.md",
+                "file": "pets/skin disease/Pododermatitis/dd/2.dog DD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.DD"
+              "title": "2.dog DD"
             }
           },
           {
@@ -146,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -178,7 +220,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "eryth",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -199,8 +241,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -293,8 +334,15 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "9bb2ad78dbe834d4",
+  "active": "bdff5fbfd4336e44",
   "lastOpenFiles": [
+    "pets/skin disease/Pododermatitis/Diagnoses/diagnosis.md",
+    "pets/skin disease/Pododermatitis/TTT/TTT &  The l ow-cost option.md",
+    "pets/skin disease/Pododermatitis/TTT",
+    "Pasted image 20250906125149.png",
+    "pets/skin disease/Pododermatitis/dd/cat DD.md",
+    "pets/skin disease/Pododermatitis/dd/2.dog DD.md",
+    "pets/skin disease/Pododermatitis/Diagnoses",
     "Pasted image 20250906114517.png",
     "Pasted image 20250906114500.png",
     "Pasted image 20250906114443.png",
@@ -304,10 +352,7 @@
     "Pasted image 20250906113657.png",
     "Pasted image 20250906113611.png",
     "Pasted image 20250906113401.png",
-    "Pasted image 20250906110937.png",
-    "Pasted image 20250906110919.png",
     "pets/skin disease/Pododermatitis/1.Overview & Definitions/1.Overview & Definitions.md",
-    "pets/skin disease/Pododermatitis/dd/2.DD.md",
     "pets/skin disease/Pododermatitis/DD.md",
     "pets/skin disease/Pododermatitis/dd",
     "PDFs/Ear Inefection/1.Overview & Definitions.pdf",
@@ -324,8 +369,6 @@
     "PDFs/Ear Inefection/History & Clinical Signs.pdf",
     "PDFs/Ear Inefection/3. Key Points.pdf",
     "PDFs/Ear Inefection/2.What  if  it  doesn’t  get  better.pdf",
-    "PDFs/Ear Inefection/2.Aetiology and  pathogenesis.pdf",
-    "PDFs/Ear Inefection/1.TTT.pdf",
     "Test.md",
     "pets/skin disease/Anal  sac  problems/aetiology & pathogenesis/1 Defenation.md",
     "pets/skin disease/Ear  infections/_TOC_.md",
@@ -337,9 +380,6 @@
     "pets/skin disease/Ear  infections-merged.md",
     "pets/skin disease/Anal  sac  problems/Treatment/z. low cost ttt.md",
     "pets/skin disease/Anal  sac  problems/Treatment/What  if  it  doesn’t  get  better.md",
-    "pets/skin disease/Anal  sac  problems/Treatment/TTT.md",
-    "pets/skin disease/Anal  sac  problems/Specific diagnostic techniques/Specific diagnostic techniques.md",
-    "pets/skin disease/Anal  sac  problems/history & clinical signs/History and  clinical  signs.md",
-    "pets/skin disease/Anal  sac  problems/aetiology & pathogenesis/Aetiology & pathogenesis.md"
+    "pets/skin disease/Anal  sac  problems/Treatment/TTT.md"
   ]
 }
