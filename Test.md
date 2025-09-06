@@ -14,7 +14,7 @@
 - **Otitis media (OM):** التهاب **middle ear cavity** داخل **tympanic bullae** (عادة بعد اختراق **tympanic membrane**).  
 - **Otitis interna (OI):** نادر جدًا؛ التهاب يصل إلى **cochlea** أو **semicircular canals**.  
 
-![تشريح الودن](https://drive.google.com/file/d/1m_i9qCr9Fd3MgA5l2gzS0JUTI27BUWfQ/view?usp=drive_link)
+![تشريح الودن])(https://drive.google.com/uc?export=view&id=1m_i9qCr9Fd3MgA5l2gzS0JUTI27BUWfQ)
 
 **تشريح الودن :**
 
