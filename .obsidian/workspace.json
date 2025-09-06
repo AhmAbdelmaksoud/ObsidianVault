@@ -25,14 +25,12 @@
             "id": "4d62184280211ccd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Test.md",
-                "mode": "source",
-                "source": false
+                "file": "PDFs/Ear Inefection/1.Overview & Definitions.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Test"
+              "icon": "lucide-file-text",
+              "title": "1.Overview & Definitions"
             }
           },
           {
@@ -255,14 +253,23 @@
   "active": "4d62184280211ccd",
   "lastOpenFiles": [
     "pets/skin disease/Ear  infections/aetiology & pathogenesis/1.Overview & Definitions.md",
-    "Test.md",
-    "pets/skin disease/Ear  infections/aetiology & pathogenesis/2.Aetiology and  pathogenesis.md",
+    "PDFs/Ear Inefection/Specifi c diagnostic techniques.pdf",
+    "PDFs/Ear Inefection/History & Clinical Signs.pdf",
+    "PDFs/Ear Inefection/3. Key Points.pdf",
+    "PDFs/Ear Inefection/2.What  if  it  doesn’t  get  better.pdf",
+    "PDFs/Ear Inefection/2.Aetiology and  pathogenesis.pdf",
+    "PDFs/Ear Inefection/1.TTT.pdf",
+    "PDFs/Ear Inefection/1.Overview & Definitions.pdf",
+    "PDFs/Ear Inefection",
+    "PDFs",
+    "pets/skin disease/Ear  infections/Treatment/3. Key Points.md",
     "pets/skin disease/Ear  infections/Treatment/2.What  if  it  doesn’t  get  better.md",
     "pets/skin disease/Ear  infections/Treatment/1.TTT.md",
-    "pets/skin disease/Anal  sac  problems/aetiology & pathogenesis/1 Defenation.md",
-    "pets/skin disease/Ear  infections/Treatment/3. Key Points.md",
     "pets/skin disease/Ear  infections/history & clinical signs/History & Clinical Signs.md",
     "pets/skin disease/Ear  infections/Specific diagnostic techniques/Specifi c diagnostic techniques.md",
+    "pets/skin disease/Ear  infections/aetiology & pathogenesis/2.Aetiology and  pathogenesis.md",
+    "Test.md",
+    "pets/skin disease/Anal  sac  problems/aetiology & pathogenesis/1 Defenation.md",
     "pets/skin disease/Ear  infections/_TOC_.md",
     "All.md",
     "merged.md",
@@ -289,8 +296,6 @@
     "Images/Pasted image 20250903125023.png",
     "Images/Pasted image 20250903124925.png",
     "Images/Pasted image 20250903124904.png",
-    "Imgaes",
-    "Images",
-    "pets/skin disease/Ear  infections/Treatment/Treatment of Otitis.md"
+    "Imgaes"
   ]
 }
