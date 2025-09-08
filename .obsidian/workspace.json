@@ -104,6 +104,76 @@
             }
           },
           {
+            "id": "9fcb5aa5f02e41ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pets/skin disease/c utaneous  l ump or  s welling/a)overview & History and Physical Examination/1.overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.overview"
+            }
+          },
+          {
+            "id": "bb86590301337008",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pets/skin disease/c utaneous  l ump or  s welling/a)overview & History and Physical Examination/2.History and Physical Examination.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.History and Physical Examination"
+            }
+          },
+          {
+            "id": "79673da1fdd05c0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pets/skin disease/c utaneous  l ump or  s welling/b)diagnosis/1.diagnostic approach.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.diagnostic approach"
+            }
+          },
+          {
+            "id": "907e0dc81657dad4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pets/skin disease/c utaneous  l ump or  s welling/b)diagnosis/2.Common causes organized by contents.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.Common causes organized by contents"
+            }
+          },
+          {
+            "id": "16af1e8c537326ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pets/skin disease/c utaneous  l ump or  s welling/c) TTT/ttt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ttt"
+            }
+          },
+          {
             "id": "9bb2ad78dbe834d4",
             "type": "leaf",
             "state": {
@@ -188,7 +258,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -245,7 +315,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 312.5
   },
   "right": {
     "id": "cba34db338f9cb53",
@@ -334,30 +404,41 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "bdff5fbfd4336e44",
+  "active": "16af1e8c537326ea",
   "lastOpenFiles": [
-    "pets/skin disease/Pododermatitis/Diagnoses/diagnosis.md",
+    "pets/skin disease/c utaneous  l ump or  s welling/b)diagnosis/2.Common causes organized by contents.md",
+    "pets/skin disease/c utaneous  l ump or  s welling/c) TTT/ttt.md",
+    "pets/skin disease/c utaneous  l ump or  s welling/b)diagnosis/1.diagnostic approach.md",
+    "Pasted image 20250908121159.png",
+    "Pasted image 20250908121102.png",
+    "Pasted image 20250908121055.png",
+    "Pasted image 20250908121028.png",
+    "Pasted image 20250908120341.png",
+    "Pasted image 20250908120120.png",
+    "Pasted image 20250908120053.png",
+    "Pasted image 20250908120007.png",
+    "Pasted image 20250908115911.png",
+    "pets/skin disease/c utaneous  l ump or  s welling/a)overview & History and Physical Examination/2.History and Physical Examination.md",
+    "Image Spindle.md",
+    "Image Epithelial.md",
+    "pets/skin disease/c utaneous  l ump or  s welling/c) TTT",
+    "pets/skin disease/c utaneous  l ump or  s welling/a)overview & History and Physical Examination/1.overview.md",
+    "Untitled",
     "pets/skin disease/Pododermatitis/TTT/TTT &  The l ow-cost option.md",
-    "pets/skin disease/Pododermatitis/TTT",
-    "Pasted image 20250906125149.png",
+    "pets/skin disease/c utaneous  l ump or  s welling/b)diagnosis",
+    "Images/Untitled 2",
+    "Images/Untitled 1",
+    "pets/skin disease/c utaneous  l ump or  s welling/a)overview & History and Physical Examination",
+    "pets/skin disease/c utaneous  l ump or  s welling",
+    "PDFs/PODODERMATITIS/1.Overview & Definitions.pdf",
+    "PDFs/PODODERMATITIS/TTT &  The l ow-cost option.pdf",
+    "PDFs/PODODERMATITIS/diagnosis.pdf",
+    "pets/skin disease/Pododermatitis/Diagnoses/diagnosis.md",
     "pets/skin disease/Pododermatitis/dd/cat DD.md",
     "pets/skin disease/Pododermatitis/dd/2.dog DD.md",
-    "pets/skin disease/Pododermatitis/Diagnoses",
-    "Pasted image 20250906114517.png",
-    "Pasted image 20250906114500.png",
-    "Pasted image 20250906114443.png",
-    "Pasted image 20250906114316.png",
-    "Pasted image 20250906113907.png",
-    "Pasted image 20250906113826.png",
-    "Pasted image 20250906113657.png",
-    "Pasted image 20250906113611.png",
-    "Pasted image 20250906113401.png",
     "pets/skin disease/Pododermatitis/1.Overview & Definitions/1.Overview & Definitions.md",
+    "Images/Pasted image 20250906125149.png",
     "pets/skin disease/Pododermatitis/DD.md",
-    "pets/skin disease/Pododermatitis/dd",
-    "PDFs/Ear Inefection/1.Overview & Definitions.pdf",
-    "pets/skin disease/Pododermatitis/1.Overview & Definitions",
-    "pets/skin disease/Pododermatitis",
     "pets/skin disease/Ear  infections/Treatment/3. Key Points.md",
     "pets/skin disease/Ear  infections/Treatment/2.What  if  it  doesn’t  get  better.md",
     "pets/skin disease/Ear  infections/Treatment/1.TTT.md",
@@ -365,21 +446,11 @@
     "pets/skin disease/Ear  infections/Specific diagnostic techniques/Specifi c diagnostic techniques.md",
     "pets/skin disease/Ear  infections/aetiology & pathogenesis/2.Aetiology and  pathogenesis.md",
     "pets/skin disease/Ear  infections/aetiology & pathogenesis/1.Overview & Definitions.md",
-    "PDFs/Ear Inefection/Specifi c diagnostic techniques.pdf",
-    "PDFs/Ear Inefection/History & Clinical Signs.pdf",
-    "PDFs/Ear Inefection/3. Key Points.pdf",
-    "PDFs/Ear Inefection/2.What  if  it  doesn’t  get  better.pdf",
     "Test.md",
     "pets/skin disease/Anal  sac  problems/aetiology & pathogenesis/1 Defenation.md",
     "pets/skin disease/Ear  infections/_TOC_.md",
     "All.md",
     "merged.md",
-    "pets/skin disease-merged.md",
-    "pets/skin disease/Ear  infections/aetiology & pathogenesis-merged.md",
-    "pets/skin disease/Anal  sac  problems-merged.md",
-    "pets/skin disease/Ear  infections-merged.md",
-    "pets/skin disease/Anal  sac  problems/Treatment/z. low cost ttt.md",
-    "pets/skin disease/Anal  sac  problems/Treatment/What  if  it  doesn’t  get  better.md",
-    "pets/skin disease/Anal  sac  problems/Treatment/TTT.md"
+    "pets/skin disease-merged.md"
   ]
 }
