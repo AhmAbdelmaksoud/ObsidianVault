@@ -165,12 +165,82 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pets/skin disease/c utaneous  l ump or  s welling/c) TTT/ttt.md",
+                "file": "pets/skin disease/c utaneous  lump or  s welling/c) TTT/ttt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "ttt"
+            }
+          },
+          {
+            "id": "99406d42e3e165a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pets/Miscellaneous/Ehrlichiosis and Anaplasmosis/1.Overview/Definition.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Definition"
+            }
+          },
+          {
+            "id": "b4d89451eacf8306",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pets/Miscellaneous/Ehrlichiosis and Anaplasmosis/2.Pathophysiology/Pathophysiology.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pathophysiology"
+            }
+          },
+          {
+            "id": "d5751fb25ad125fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pets/Miscellaneous/Ehrlichiosis and Anaplasmosis/3.Clinical Signs/Clinical Signs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Clinical Signs"
+            }
+          },
+          {
+            "id": "3f05709ad2dfffa6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pets/Miscellaneous/Ehrlichiosis and Anaplasmosis/4.Diagnosis/Diagnosis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Diagnosis"
+            }
+          },
+          {
+            "id": "7838117dc1bb77e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pets/Miscellaneous/Ehrlichiosis and Anaplasmosis/5.TTT/TTT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TTT"
             }
           },
           {
@@ -258,7 +328,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -404,53 +474,53 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "16af1e8c537326ea",
+  "active": "7838117dc1bb77e4",
   "lastOpenFiles": [
-    "pets/skin disease/c utaneous  l ump or  s welling/b)diagnosis/2.Common causes organized by contents.md",
-    "pets/skin disease/c utaneous  l ump or  s welling/c) TTT/ttt.md",
-    "pets/skin disease/c utaneous  l ump or  s welling/b)diagnosis/1.diagnostic approach.md",
+    "pets/Miscellaneous/Ehrlichiosis and Anaplasmosis/4.Diagnosis/Diagnosis.md",
+    "pets/Miscellaneous/Ehrlichiosis and Anaplasmosis/5.TTT/TTT.md",
+    "Untitled",
+    "pets/Miscellaneous/Untitled",
+    "pets/Miscellaneous/Ehrlichiosis and Anaplasmosis/3.Clinical Signs/Clinical Signs.md",
+    "pets/Miscellaneous/Ehrlichiosis and Anaplasmosis/4.Diagnosis",
+    "pets/Miscellaneous/Ehrlichiosis and Anaplasmosis/5.TTT",
+    "pets/Miscellaneous/Ehrlichiosis and Anaplasmosis/2.Pathophysiology/Pathophysiology.md",
+    "pets/Miscellaneous/Ehrlichiosis and Anaplasmosis/3.Clinical Signs",
+    "pets/Miscellaneous/Ehrlichiosis and Anaplasmosis/1.Overview/Definition.md",
+    "pets/Miscellaneous/Ehrlichiosis and Anaplasmosis/2.Pathophysiology",
+    "pets/skin disease/c utaneous  lump or  s welling/c) TTT/ttt.md",
+    "Images/Pasted image 20250908120120.png",
+    "Images/Pasted image 20250908120053.png",
+    "Images/Pasted image 20250908120007.png",
+    "Images/Pasted image 20250908115911.png",
+    "Images/Image Spindle.md",
+    "Images/Image Epithelial.md",
+    "Images/Pasted image 20250908121159.png",
+    "Images/Pasted image 20250908121102.png",
+    "Images/Pasted image 20250908121055.png",
+    "Images/Pasted image 20250908121028.png",
+    "Images/Pasted image 20250908120341.png",
+    "pets/Miscellaneous/Ehrlichiosis and Anaplasmosis/1.Overview",
+    "pets/Miscellaneous/Ehrlichiosis and Anaplasmosis",
+    "pets/Miscellaneous",
+    "pets/skin disease/c utaneous  lump or  s welling/b)diagnosis/2.Common causes organized by contents.md",
+    "pets/skin disease/c utaneous  lump or  s welling/b)diagnosis/1.diagnostic approach.md",
     "Pasted image 20250908121159.png",
-    "Pasted image 20250908121102.png",
-    "Pasted image 20250908121055.png",
-    "Pasted image 20250908121028.png",
-    "Pasted image 20250908120341.png",
-    "Pasted image 20250908120120.png",
-    "Pasted image 20250908120053.png",
-    "Pasted image 20250908120007.png",
-    "Pasted image 20250908115911.png",
-    "pets/skin disease/c utaneous  l ump or  s welling/a)overview & History and Physical Examination/2.History and Physical Examination.md",
+    "pets/skin disease/c utaneous  lump or  s welling/a)overview & History and Physical Examination/2.History and Physical Examination.md",
     "Image Spindle.md",
     "Image Epithelial.md",
-    "pets/skin disease/c utaneous  l ump or  s welling/c) TTT",
-    "pets/skin disease/c utaneous  l ump or  s welling/a)overview & History and Physical Examination/1.overview.md",
-    "Untitled",
+    "pets/skin disease/c utaneous  lump or  s welling/c) TTT",
+    "pets/skin disease/c utaneous  lump or  s welling/a)overview & History and Physical Examination/1.overview.md",
     "pets/skin disease/Pododermatitis/TTT/TTT &  The l ow-cost option.md",
-    "pets/skin disease/c utaneous  l ump or  s welling/b)diagnosis",
-    "Images/Untitled 2",
-    "Images/Untitled 1",
-    "pets/skin disease/c utaneous  l ump or  s welling/a)overview & History and Physical Examination",
-    "pets/skin disease/c utaneous  l ump or  s welling",
-    "PDFs/PODODERMATITIS/1.Overview & Definitions.pdf",
-    "PDFs/PODODERMATITIS/TTT &  The l ow-cost option.pdf",
-    "PDFs/PODODERMATITIS/diagnosis.pdf",
     "pets/skin disease/Pododermatitis/Diagnoses/diagnosis.md",
     "pets/skin disease/Pododermatitis/dd/cat DD.md",
     "pets/skin disease/Pododermatitis/dd/2.dog DD.md",
     "pets/skin disease/Pododermatitis/1.Overview & Definitions/1.Overview & Definitions.md",
-    "Images/Pasted image 20250906125149.png",
     "pets/skin disease/Pododermatitis/DD.md",
     "pets/skin disease/Ear  infections/Treatment/3. Key Points.md",
     "pets/skin disease/Ear  infections/Treatment/2.What  if  it  doesn’t  get  better.md",
     "pets/skin disease/Ear  infections/Treatment/1.TTT.md",
     "pets/skin disease/Ear  infections/history & clinical signs/History & Clinical Signs.md",
     "pets/skin disease/Ear  infections/Specific diagnostic techniques/Specifi c diagnostic techniques.md",
-    "pets/skin disease/Ear  infections/aetiology & pathogenesis/2.Aetiology and  pathogenesis.md",
-    "pets/skin disease/Ear  infections/aetiology & pathogenesis/1.Overview & Definitions.md",
-    "Test.md",
-    "pets/skin disease/Anal  sac  problems/aetiology & pathogenesis/1 Defenation.md",
-    "pets/skin disease/Ear  infections/_TOC_.md",
-    "All.md",
-    "merged.md",
-    "pets/skin disease-merged.md"
+    "pets/skin disease/Ear  infections/aetiology & pathogenesis/2.Aetiology and  pathogenesis.md"
   ]
 }
