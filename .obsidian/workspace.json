@@ -328,6 +328,104 @@
             }
           },
           {
+            "id": "b8d6de0ff03d028f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pets/skin disease/zThe  cat -  bite  abscess/1.definition/Key points.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Key points"
+            }
+          },
+          {
+            "id": "ec8de1d78d4ca3be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pets/skin disease/zThe  cat -  bite  abscess/2.Aetiology and Pathogenesis/Aetiology and Pathogenesis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aetiology and Pathogenesis"
+            }
+          },
+          {
+            "id": "921379ecc4fffa1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pets/skin disease/zThe  cat -  bite  abscess/3.History & Clinical Signs/History & Clinical Signs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "History & Clinical Signs"
+            }
+          },
+          {
+            "id": "209e7d105b4a3f62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pets/skin disease/zThe  cat -  bite  abscess/4.diagnosis/Specific diagnostic techniques.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Specific diagnostic techniques"
+            }
+          },
+          {
+            "id": "a11c331652dc03d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pets/skin disease/zThe  cat -  bite  abscess/5.TTT/Treatment & Management.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Treatment & Management"
+            }
+          },
+          {
+            "id": "45bbe7ba48cda137",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pets/skin disease/zThe  cat -  bite  abscess/7.Zoonotic note (مهم)/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "7399092c33c52ec1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pets/skin disease/zThe  cat -  bite  abscess/الخلاصة/ملخص الكلام.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ملخص الكلام"
+            }
+          },
+          {
             "id": "9bb2ad78dbe834d4",
             "type": "leaf",
             "state": {
@@ -412,7 +510,7 @@
             }
           }
         ],
-        "currentTab": 22
+        "currentTab": 29
       }
     ],
     "direction": "vertical"
@@ -558,28 +656,35 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "d38f60ef894dd566",
+  "active": "7399092c33c52ec1",
   "lastOpenFiles": [
+    "pets/skin disease/zThe  cat -  bite  abscess/7.Zoonotic note (مهم)/Untitled.md",
+    "pets/skin disease/zThe  cat -  bite  abscess/5.TTT/Treatment & Management.md",
+    "pets/skin disease/zThe  cat -  bite  abscess/1.definition/Key points.md",
+    "pets/skin disease/zThe  cat -  bite  abscess/الخلاصة/ملخص الكلام.md",
+    "pets/skin disease/zThe  cat -  bite  abscess/الخلاصة",
+    "pets/skin disease/zThe  cat -  bite  abscess/7.Zoonotic note (مهم)",
+    "pets/skin disease/zThe  cat -  bite  abscess/4.diagnosis/Specific diagnostic techniques.md",
+    "Untitled 1",
+    "pets/skin disease/zThe  cat -  bite  abscess/5.TTT",
+    "pets/skin disease/zThe  cat -  bite  abscess/3.History & Clinical Signs/History & Clinical Signs.md",
+    "pets/skin disease/zThe  cat -  bite  abscess/2.Aetiology and Pathogenesis/Aetiology and Pathogenesis.md",
+    "pets/skin disease/zThe  cat -  bite  abscess/4.diagnosis",
+    "pets/skin disease/zThe  cat -  bite  abscess/3.History & Clinical Signs",
+    "pets/skin disease/The  d og with  urticaria or  angioedema/2.Aetiology & Pathogenesis/Aetiology & Pathogenesis.md",
+    "pets/skin disease/zThe  cat -  bite  abscess/2.Aetiology and Pathogenesis",
+    "pets/skin disease/zThe  cat -  bite  abscess/1.definition",
+    "pets/skin disease/zThe  cat -  bite  abscess",
     "pets/skin disease/The  d og with  urticaria or  angioedema/1.Definitions/definition.md",
     "pets/skin disease/The  d og with  urticaria or  angioedema/5.TTT/TTT.md",
     "Pasted image 20250915100554.png",
     "pets/skin disease/The  d og with  urticaria or  angioedema/4.diagnosis/Diagnostic approach.md",
     "pets/skin disease/The  d og with  urticaria or  angioedema/4.diagnosis/DD.md",
     "pets/skin disease/The  d og with  urticaria or  angioedema/3.History & Clinical Signs/History & Clinical Signs.md",
-    "pets/skin disease/The  d og with  urticaria or  angioedema/2.Aetiology & Pathogenesis/Aetiology & Pathogenesis.md",
-    "Untitled",
     "pets/skin disease/The  d og with  urticaria or  angioedema/5.TTT",
-    "pets/skin disease/The  d og with  urticaria or  angioedema/4.diagnosis",
-    "pets/skin disease/The  d og with  urticaria or  angioedema/3.History & Clinical Signs",
-    "pets/skin disease/The  d og with  urticaria or  angioedema/2.Aetiology & Pathogenesis",
     "pets/Miscellaneous/Ehrlichiosis and Anaplasmosis/5.TTT/TTT.md",
-    "pets/skin disease/The  d og with  urticaria or  angioedema/1.Definitions",
-    "pets/skin disease/The  d og with  urticaria or  angioedema",
     "pets/Miscellaneous/Ehrlichiosis and Anaplasmosis/4.Diagnosis/Diagnosis.md",
-    "pets/Miscellaneous/Untitled",
     "pets/Miscellaneous/Ehrlichiosis and Anaplasmosis/3.Clinical Signs/Clinical Signs.md",
-    "pets/Miscellaneous/Ehrlichiosis and Anaplasmosis/4.Diagnosis",
-    "pets/Miscellaneous/Ehrlichiosis and Anaplasmosis/5.TTT",
     "pets/Miscellaneous/Ehrlichiosis and Anaplasmosis/2.Pathophysiology/Pathophysiology.md",
     "pets/Miscellaneous/Ehrlichiosis and Anaplasmosis/1.Overview/Definition.md",
     "pets/skin disease/c utaneous  lump or  s welling/c) TTT/ttt.md",
@@ -598,12 +703,6 @@
     "pets/skin disease/c utaneous  lump or  s welling/b)diagnosis/1.diagnostic approach.md",
     "pets/skin disease/c utaneous  lump or  s welling/a)overview & History and Physical Examination/2.History and Physical Examination.md",
     "Image Spindle.md",
-    "Image Epithelial.md",
-    "pets/skin disease/c utaneous  lump or  s welling/a)overview & History and Physical Examination/1.overview.md",
-    "pets/skin disease/Pododermatitis/TTT/TTT &  The l ow-cost option.md",
-    "pets/skin disease/Pododermatitis/Diagnoses/diagnosis.md",
-    "pets/skin disease/Pododermatitis/dd/cat DD.md",
-    "pets/skin disease/Pododermatitis/dd/2.dog DD.md",
-    "pets/skin disease/Pododermatitis/1.Overview & Definitions/1.Overview & Definitions.md"
+    "Image Epithelial.md"
   ]
 }
