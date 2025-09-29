@@ -15,8 +15,10 @@
 
 - ا**Cytology (FNA)**: خلايا كبيرة mononuclear ذات مظهر يشبه macrophages / histiocytes، غالبًا قليلة الخلايا المتحولة، ومع مرور الوقت يزداد فيها infiltrate من lymphocytes (علامة regression). إذا كان ulcerated قد تظهر neutrophils. [Merck Veterinary Manual+1](https://www.merckvetmanual.com/clinical-pathology-and-procedures/diagnostic-procedures-for-the-private-practice-laboratory/cytology?utm_source=chatgpt.com)
     
-- **مقارنة مع MCT**: **Mast cell tumors** عادةً تظهر خلايا ذات حبيبات متعدّدة الألوان (metachromatic granules) على صبغات معيّنة — هذه الخاصية تسهل التمييز في أغلب الحالات على cytology. لذلك FNA جيد لتفريقهما في كثير من الحالات.
 ![[Pasted image 20250929152844.png]]
+
+- **مقارنة مع ==MCT**: **Mast cell tumors**== عادةً تظهر خلايا ذات حبيبات متعدّدة الألوان (metachromatic granules) على صبغات معيّنة — هذه الخاصية تسهل التمييز في أغلب الحالات على [^1]cytology . لذلك FNA جيد لتفريقهما في كثير من الحالات.
+- ![[Pasted image 20250929154844.png]]
 ## Differential diagnosis 
 
 (بما أن histiocytoma يدخل في فئة **round cell tumours**، مهم تمييزه عن:)
@@ -25,3 +27,5 @@
     
 - **Plasma cell tumour / plasmacytoma**, **cutaneous lymphoma**, **papilloma**, **granuloma**، **infected/ulcerated follicular cyst**.  
     تمييز هذه الحالات يعتمد على **cytology (FNA)** أو histopathology. [Today's Veterinary Practice+1](https://todaysveterinarypractice.com/dermatology/common-neoplastic-skin-lesions-dogs-catscytologic-diagnosis-treatment-options/?utm_source=chatgpt.com)
+
+[^1]: appear as a monomorphic populati on of large round cells with a central nucleus and cytoplasm that contains purple - staining granules
