@@ -13,8 +13,7 @@
 4. **Imaging**: **ultrasound** مفيد لتقييم حدود الكتلة وعمقها ووجود اختراق في **fascial planes**. **CT/MRI** عند الحاجة لتخطيط جراحي في حالات كبيرة أو قرب هياكل هامة.
     
 ![[Pasted image 20250928153629.png]]
-# Differential diagnosis (أمراض/آفات يجب تفريقها)
-
+# Differential diagnosis 
 - **Liposarcoma** — malignant adipose tumour: قد تظهر ككتلة أسرع نموًا، أكثر صلابة، قد يكون لها مظهر مختلف في الـ histopathology.
     
 - **Infiltrative lipoma** — سلوك محلي عدواني (invades fascia) لكنه خلوّيّا يشبه lipoma. يصعّب الاستئصال ويزيد احتمال recurrence.
